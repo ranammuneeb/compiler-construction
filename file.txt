@@ -1,0 +1,39 @@
+int a;
+int b;
+int c;
+int d;
+int e;
+
+in a;
+in b;
+in c;
+//a=-1;
+int k;
+//k='c';
+a = a / c * b;
+out a;
+
+int i;
+i=5;
+if (a > b) {
+    d = 100;
+} else {
+    d = 200;
+}
+out d;
+e=9;
+while (a > 0) {
+    while(i>=3)
+    {
+        i=i-1;
+    }
+    if (b < c) {
+        e = b;
+    } else {
+        e = c;
+    }
+    a = a - 1;
+}
+
+out d;
+out e;
